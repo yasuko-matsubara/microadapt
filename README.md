@@ -20,7 +20,7 @@ please see,
 
 **🚧  Coming Soon **
 
-
+<!-- 
 please see, 
 
  ./notebooks/demo.ipynb
@@ -57,4 +57,4 @@ pyenv virtualenv 3.8 sample
 pyenv global sample
 pip install -r ./src/requirements.txt
 ```
-
+ -->
